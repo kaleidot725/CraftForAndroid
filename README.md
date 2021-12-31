@@ -12,3 +12,7 @@ Viewing Craft through a browser is quite tedious.
 So I created an app that just displays Craft in a WebView.
 
 <img src=https://user-images.githubusercontent.com/23740796/147816294-95019177-a6e2-4fec-9519-f06d59baf65f.png width=256>
+
+# DEMO APK (Unsigned APK)
+
+DEMO APK is [here](https://github.com/kaleidot725/CraftForAndroid/blob/main/craft%20for%20android%20demo.apk).
